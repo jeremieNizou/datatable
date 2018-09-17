@@ -1,0 +1,18 @@
+.isDisabled {
+	opacity: 0.5;
+	pointer-events: none;
+}
+
+.isNotPage {
+	pointer-events: none;
+}
+
+#inputSearch {
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.titleTable:hover {
+	cursor: pointer;
+}
